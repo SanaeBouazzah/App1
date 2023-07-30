@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-    {{-- <div class="container">
+    <div class="container">
       <nav>
         <h2>BlogPage</h2>
         <ul>
@@ -18,7 +18,7 @@
           <li><a href="">Login</a></li>
         </ul>
       </nav>
-    </div> --}}
+    </div>
 </header>
 </body>
 </html>
