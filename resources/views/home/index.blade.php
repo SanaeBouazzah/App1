@@ -5,6 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>App1</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js">
 </head>
 <body>
 <header>
@@ -15,7 +18,7 @@
           <li><a href="">Home</a></li>
           <li><a href="">Contact</a></li>
           <li><a href="">Register</a></li>
-          <li><a href="">Login</a></li>
+          <li><a href="" class="btn btn-primary rounded-0">Login</a></li>
         </ul>
       </nav>
     </div>
