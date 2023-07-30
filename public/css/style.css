@@ -4,7 +4,7 @@
   box-sizing:border-box;
 }
 header{
-  background: url('../images/pexels-vladimir-kudinov-36372.jpg');
+  background: linear-gradient(to left, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../images/pexels-vladimir-kudinov-36372.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20,7 +20,7 @@ nav{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding:14px 0;
+  padding:20px 0;
 }
 nav ul{
   display: flex;

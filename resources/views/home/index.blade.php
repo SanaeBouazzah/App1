@@ -17,8 +17,8 @@
         <ul>
           <li><a href="">Home</a></li>
           <li><a href="">Contact</a></li>
-          <li><a href="">Register</a></li>
-          <li><a href="" class="btn btn-primary rounded-0">Login</a></li>
+          <li><a href="{{route('register')}}" class="btn btn-success rounded-0">Register</a></li>
+          <li><a href="{{route('login')}}" class="btn btn-primary rounded-0">Login</a></li>
         </ul>
       </nav>
     </div>
