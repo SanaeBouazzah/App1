@@ -1,4 +1,20 @@
+.container{
+  width:80%;
+  margin:auto;
+}
 nav{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+nav ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul li{
+  padding:0 10px;
+}
+nav ul li{
+  list-style: none;
 }
