@@ -7,15 +7,18 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
-  <nav>
-    <h2>BlogPage</h2>
-    <ul>
-      <li><a href="">Home</a></li>
-      <li><a href="">Contact</a></li>
-      <li><a href="">Register</a></li>
-      <li><a href="">Login</a></li>
-    </ul>
-  </nav>
+<header>
+    <div class="container">
+      <nav>
+        <h2>BlogPage</h2>
+        <ul>
+          <li><a href="">Home</a></li>
+          <li><a href="">Contact</a></li>
+          <li><a href="">Register</a></li>
+          <li><a href="">Login</a></li>
+        </ul>
+      </nav>
+    </div>
+</header>
 </body>
 </html>

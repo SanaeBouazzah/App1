@@ -1,4 +1,4 @@
-nav h2{
-  color:red;
-  font-size: 40px;
+nav{
+  display: flex;
+  justify-content: space-between;
 }
