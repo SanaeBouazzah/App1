@@ -18,9 +18,12 @@
           <li><a href="">Home</a></li>
           <li><a href="">Contact</a></li>
           <li><a href="{{route('register')}}" class="btn btn-success rounded-0">Register</a></li>
-          <li><a href="{{route('login')}}" class="btn btn-primary rounded-0">Login</a></li>
+          <li><a href="{{route('login')}}" class="btn btn-dark rounded-0">Login</a></li>
         </ul>
       </nav>
+      <div class="div">
+        <a href="{{route('login')}}">Join Us</a>
+      </div>
     </div>
 </header>
 </body>
